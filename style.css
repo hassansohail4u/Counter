@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.icons{
+    padding: 6px 14px;
+    font-size: 30px;
+    background-color: transparent;
+    border-width: 1px;
+}
+
+.number{
+    font-size: 230px;
+}
+
+
+.full-counter{
+    background-color: #141516;
+}
+
+.box-1{
+    margin: 213px 0px;
+}
